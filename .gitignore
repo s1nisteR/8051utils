@@ -50,3 +50,15 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+#Project based
+.bat
+.asm
+.lk
+.lst
+.map
+.mem
+.rst
+.rel
+.sym
+.hex
