@@ -52,13 +52,11 @@ Mkfile.old
 dkms.conf
 
 #Project based
-.bat
-.asm
-.lk
-.lst
-.map
-.mem
-.rst
-.rel
-.sym
-.hex
+*.bat
+*.asm
+*.lk
+*.lst
+*.mem
+*.rel
+*.rst
+*.sym
